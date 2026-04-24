@@ -18,5 +18,8 @@ public class GitDemo1 {
     public String getStatus2() {
         return "Application is running";
     }
+    public String getStatus33() {
+        return "hotfix a브랜치 배포....";
+    }
 
 }
