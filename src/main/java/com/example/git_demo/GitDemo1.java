@@ -14,6 +14,8 @@ public class GitDemo1 {
     public String getStatus() {
         return "Application is running";
     }
-
+    public String getA() {
+        return "A";
+    }
 
 }
