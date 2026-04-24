@@ -16,6 +16,6 @@ public class GitDemo1 {
     }
 
     public String getC() {
-        return "C";
+        return "C->D";
     }
 }
