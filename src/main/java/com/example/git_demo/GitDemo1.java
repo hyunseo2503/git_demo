@@ -15,7 +15,7 @@ public class GitDemo1 {
         return "Application is running";
     }
 
-    public String getB() {
-        return "B";
+    public String getC() {
+        return "C";
     }
 }
